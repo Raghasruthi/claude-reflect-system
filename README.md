@@ -1,6 +1,6 @@
-# Claude Code Reflect - Self-Improving Skills System 🧠
+# Claude Code Self-Learning Skills - Reflect System 🧠
 
-> *"Correct once, never again"* - A self-improving skills system for Claude Code
+> *"Correct once, never again"* - Self-learning skills that improve from your corrections
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code](https://img.shields.io/badge/Claude-Code-purple)](https://claude.ai/code)
