@@ -1,3 +1,5 @@
+![Skill Reflect Header](assets/header.jpg)
+
 # Claude Code Self-Learning Skills - Reflect System 🧠
 
 > *"Correct once, never again"* - AI that learns from your corrections and never repeats mistakes
